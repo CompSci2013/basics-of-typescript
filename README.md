@@ -10,7 +10,13 @@ Free fake API for testing and prototyping.
 
 Powered by JSON Server + LowDB. Tested with XV.
 
+# TypeScript Playground
+
+https://www.typescriptlang.org/play/
+
 # Resources
+
+https://jsonplaceholder.typicode.com
 
 JSONPlaceholder comes with a set of 6 common resources:
 
