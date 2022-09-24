@@ -1,3 +1,5 @@
+9/24/2022 - pick up at lesson 616.
+
 https://www.markdownguide.org/cheat-sheet/
 
 # Random notes:
