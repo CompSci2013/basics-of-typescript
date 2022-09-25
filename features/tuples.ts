@@ -23,3 +23,5 @@ const mySuperCar: carStuff = {
   horsepower: 12,
   weight: 1200,
 };
+
+export {};

@@ -6,7 +6,7 @@ const dates = [new Date(), new Date()];
 const carsByMake: string[][] = [];
 
 // help with inference when extracting values
-const car = carMakers[0];
+const aCar = carMakers[0];
 const myCar = carMakers.pop();
 
 // Prevent incompatible values
