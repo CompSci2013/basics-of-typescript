@@ -1,26 +1,31 @@
-// var add = function (a, b) {
-//     return a + b;
+// const add = (a: number, b: number): number => {
+//   return a + b;
 // };
-// function divide(a, b) {
-//     return a / b;
+// function divide(a: number, b: number): number {
+//   return a / b;
 // }
-// var multiply = function (a, b) {
-//     return a * b;
+// const multiply = function (a: number, b: number): number {
+//   return a * b;
 // };
-// var logger = function (message) {
-//     console.log(message);
+// const logger = (message: string): void => {
+//   console.log(message);
 // };
-// var throwError = function (message) {
-//     throw new Error(message);
+// const throwError = (message: string): never => {
+//   throw new Error(message);
 // };
-// var todaysWeather = {
-//     date: new Date(),
-//     weather: 'sunny'
+// const todaysWeather = {
+//   date: new Date(),
+//   weather: 'sunny',
 // };
-// var logWeather = function (_a) {
-//     var date = _a.date, weather = _a.weather;
-//     console.log(date);
-//     console.log(weather);
+// const logWeather = ({
+//   date,
+//   weather,
+// }: {
+//   date: Date;
+//   weather: string;
+// }): void => {
+//   console.log(date);
+//   console.log(weather);
 // };
 // logWeather(todaysWeather);
 // ES2015
@@ -29,3 +34,4 @@
 //   console.log(weather);
 // };
 //logWeather(todaysWeather);
+/*   LESSON 617: Annotations Around Objects   */
